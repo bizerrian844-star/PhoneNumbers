@@ -18,7 +18,6 @@
 # limitations under the License.
 from .util import UnicodeMixin, ImmutableMixin, mutating_method
 
-
 class CountryCodeSource(object):
     """The source from which a country code is derived."""
 
